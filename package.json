@@ -1,0 +1,15 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "primer ejercicio con node.",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node Ejercicio1-node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Emanuel Benitez Baez",
+  "license": "ISC"
+}
